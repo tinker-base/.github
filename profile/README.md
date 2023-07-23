@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="125" height="125" src="https://github.com/tinker-base/tinker-dashboard/blob/27233f35469efd653eb95a6a0825a2a4231468d2/src/images/SVG%20Vector%20Files/tinker_logo.svg">
-</p>
+![logo](https://github.com/tinker-base/tinker-dashboard/blob/3134d64e41001ebe7704bb6ef6eddbbc2d77e8ef/src/images/SVG%20Vector%20Files/tinker_wide_bar.png)
 
 ## Tinker
 > Tinker automates the creation of backends for your web applications.
